@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\StudentExam.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\StudentExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\StudentExam.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\StudentExam.AssemblyInfo.cs
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\StudentExam.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\StudentExam\StudentExam\bin\Debug\net6.0\StudentExam.exe
+C:\Users\HP\Desktop\StudentExam\StudentExam\bin\Debug\net6.0\StudentExam.deps.json
+C:\Users\HP\Desktop\StudentExam\StudentExam\bin\Debug\net6.0\StudentExam.runtimeconfig.json
+C:\Users\HP\Desktop\StudentExam\StudentExam\bin\Debug\net6.0\StudentExam.dll
+C:\Users\HP\Desktop\StudentExam\StudentExam\bin\Debug\net6.0\StudentExam.pdb
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\StudentExam.dll
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\refint\StudentExam.dll
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\StudentExam.pdb
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\StudentExam.genruntimeconfig.cache
+C:\Users\HP\Desktop\StudentExam\StudentExam\obj\Debug\net6.0\ref\StudentExam.dll
